@@ -1,0 +1,15 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Woodcock-Johnson III (WJ-III)",
+    "TermURL": "http://cps.nova.edu/~cpphelp/WJIII-ACH.html",
+    "Citation": "Woodcock, R.W., Mather, N., & Schrank, F.A. (2004). Woodcock-Johnson III. Rolling Meadows, IL: Riverside Publishing."
+  },
+  "WJ-III_MathFluency_Raw": {
+    "LongName": "WJ-III Math Fluency Raw Score",
+    "Description": "Math Fluency subtest raw score"
+  },
+  "WJ-III_MathFluency_StS": {
+    "LongName": "WJ-III Math Fluency Standard Score",
+    "Description": "Math fluency subtest standard score"
+  }
+}
