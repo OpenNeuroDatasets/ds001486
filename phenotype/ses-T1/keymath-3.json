@@ -1,0 +1,31 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "KeyMath-3",
+    "TermURL": "http://www.pearsonclinical.com/education/products/100000649/keymath3-diagnostic-assessment.html",
+    "Citation": "Connolly, A.J. ( 2007). KeyMath-3 diagnostic assessment: Manual forms A and B . Minneapolis, MN: Pearson."
+  },
+  "KeyMath_Numeration_Raw": {
+    "LongName": "KeyMath-3 Numeration Raw Score",
+    "Description": "Numeration subtest raw score"
+  },
+  "KeyMath_Numeration_ScS": {
+    "LongName": "KeyMath-3 Numeration Scaled Score",
+    "Description": "Numeration subtest scale score"
+  },
+  "KeyMath_Measurement_Raw": {
+    "LongName": "KeyMath-3 Measurement Raw Score",
+    "Description": "Measurement subtest raw score"
+  },
+  "KeyMath_Measurement_ScS": {
+    "LongName": "KeyMath-3 Measurement Scaled Score",
+    "Description": "Measurement subtest scale score"
+  },
+  "KeyMath_ProblemSolving_Raw": {
+    "LongName": "KeyMath-3 Problem Solving Raw Score",
+    "Description": "Foundations of problem solving subtest raw score"
+  },
+  "KeyMath_ProblemSolving_ScS": {
+    "LongName": "KeyMath-3 Problem Solving Scaled Score",
+    "Description": "Foundations of problem solving subtest scale score"
+  }
+}
