@@ -1,0 +1,13 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "KeyMath-3",
+    "TermURL": "http://www.pearsonclinical.com/education/products/100000649/keymath3-diagnostic-assessment.html",
+    "Citation": "Connolly, A.J. ( 2007). KeyMath-3 diagnostic assessment: Manual forms A and B . Minneapolis, MN: Pearson."
+  },
+  "KeyMath_Numeration_Raw": {
+    "Description": "Numeration subtest raw score"
+  },
+  "KeyMath_Numeration_SS": {
+    "Description": "Numeration subtest scale score"
+  }
+}
