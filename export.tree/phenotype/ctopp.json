@@ -1,0 +1,55 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Comprehensive Test of Phonological Processing (CTOPP)",
+    "TermURL": "http://alpha.fdu.edu/psychology/comprehensive_test_of_phonologic.htm",
+    "Citation": "Wagner, R. K., Torgesen, J. K., & Rashotte, C. A. (1999). Comprehensive test of phonological processing. Austin, TX: PRO-ED"
+  },
+  "CTOPP_EL_Raw": {
+    "LongName": "CTOPP Elision Raw Score",
+    "Description": "Elision subtest raw score"
+  },
+  "CTOPP_EL_StS": {
+    "LongName": "CTOPP Elision Standard Score",
+    "Description": "Elision subtest standardized score"
+  },
+  "CTOPP_BW_Raw": {
+    "LongName": "CTOPP Blending Words Raw Score",
+    "Description": "Blending words subtest raw score"
+  },
+  "CTOPP_BW_StS": {
+    "LongName": "CTOPP Blending Words Standard Score",
+    "Description": "Blending words subtest standardized score"
+  },
+  "CTOPP_RD_Raw": {
+    "LongName": "CTOPP Rapid Digit Naming Raw Score",
+    "Description": "Rapid digit naming subtest raw score"
+  },
+  "CTOPP_RD_StS": {
+    "LongName": "CTOPP Rapid Digit Naming Standard Score",
+    "Description": "Rapid digit naming subtest standardized score"
+  },
+  "CTOPP_RL_Raw": {
+    "LongName": "CTOPP Rapid Letter Naming Raw Score",
+    "Description": "Rapid letter naming subtest raw score"
+  },
+  "CTOPP_RL_StS": {
+    "LongName": "CTOPP Rapid Letter Naming Standard Score",
+    "Description": "Rapid letter naming subtest standardized score"
+  },
+  "CTOPP_PhonAwareness_SumStS": {
+    "LongName": "CTOPP Phonemic Awareness Sum of Standard Scores",
+    "Description": "Sum of elision and blending words subtest standardized scores"
+  },
+  "CTOPP_PhonAwareness_Comp": {
+    "LongName": "CTOPP Phonemic Awareness Composite Score",
+    "Description": "Phonemic awareness composite score"
+  },
+  "CTOPP_RapidNaming_SumStS": {
+    "LongName": "CTOPP Rapid Naming Sum of Standard Scores",
+    "Description": "Sum of rapid digit naming and rapid letter naming subtest standardized scores"
+  },
+  "CTOPP_RapidNaming_Comp": {
+    "LongName": "CTOPP Rapid Naming Composite Score",
+    "Description": "Rapid naming composite score"
+  }
+}
