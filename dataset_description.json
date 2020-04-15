@@ -14,7 +14,7 @@
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "Please cite: \nSuarez-Pellicioni M, Lytle M, Younger JW, Booth JR. (2019). A longitudinal neuroimaging dataset on arithmetic processing in 8- to 16-year old children. Scientific Data. volume 6, Article number: 190040",
-    "Funding": "This research was supported by HD059177 and HD093547 from the National Institute of Child Health and Human Development to James R. Booth.",
+    "Funding": ["This research was supported by HD059177 and HD093547 from the National Institute of Child Health and Human Development to James R. Booth."],
     "ReferencesAndLinks": [
         "Demir E, Prado J & Booth JR (2016). Neural correlates of math gains vary depending on parental socio-economic status (SES). Frontiers in Psychology, 7, 892.",
         "Demir E, Prado J & Booth JR (2015). Parental socioeconomic status and the neural basis of arithmetic: Differential relations to verbal and visuo-spatial representations. Developmental Science, 18, 799-814. (PMCID: PMC4522207)",
