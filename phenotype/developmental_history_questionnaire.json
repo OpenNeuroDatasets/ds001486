@@ -146,10 +146,12 @@
     "Description": "Child lives with:"
   },
   "mother_age": {
-    "LongName": "Mother's age"
+    "LongName": "Mother's age",
+	"Description": "Mother's age within indicated five year increment to protect subject identification"
   },
   "mother_occupation": {
-    "LongName": "Mother's occupation"
+    "LongName": "Mother's occupation",
+	"Description": "First two digits (major and sub-major group) of ISCO-08 occupation code based on free response answer"
   },
   "mother_highest_grade": {
     "Description": "Mother's highest grade/degree completed",
@@ -204,13 +206,22 @@
     }
   },
   "father_age": {
-    "LongName": "Father's age"
+    "LongName": "Father's age",
+	"Description": "Father's age within indicated five year increment to protect subject identification"
   },
   "father_occupation": {
-    "LongName": "Father's occupation"
+    "LongName": "Father's occupation",
+	"Description": "First two digits (major and sub-major group) of ISCO-08 occupation code based on free response answer"
   },
   "father_highest_grade": {
-    "LongName": "Father's highest grade/degree completed"
+    "LongName": "Father's highest grade/degree completed",
+	"Levels": {
+      "1": "No High School",
+      "2": "High School",
+      "3": "Some College",
+      "4": "Bachelor's Degree",
+      "5": "Graduate Degree"
+    }
   },
   "father_learning_problems": {
     "Description": "Father any history of learning problems?",
