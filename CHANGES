@@ -1,3 +1,5 @@
+1.3.0 2020-05-21
+  - Update to developmental_history_questionnaire in phenotype/ to make occupation and ages of guardians more confidential
 1.2.2 2020-04-27
   - Added mriqc table output used in data descriptor (Suarez-Pellicioni,2019) in derivatives/
 1.2.1	2019-03-06
