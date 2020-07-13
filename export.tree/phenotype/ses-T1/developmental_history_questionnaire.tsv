@@ -1,0 +1,133 @@
+participant_id	speech_delay	speech_delay_explanation	speech_language_therapy	struggle_reading	struggle_reading_explanation	reading_disability_tested	reading_disability_diagnosis	tutoring_reading	struggle_math	math_disability_tested	math_disability_diagnosis	tutoring_math	school_type	regular_classroom	other_classroom_type	skipped_grades	skipped_grades_other	individual_education_plan/504_plan	learning_preference_teacher	learning_preference_visual	learning_preference_demonstrations	learning_preference_peer-interactions	learning_preference_discussions	learning_preference_other	primary_language	lives_with	mother_age	mother_occupation	mother_highest_grade	mother_learning_problems	mother_speech_problems	mother_behavioral_problems	mother_medical_problems	mother_emotional_problems	mother_drug_alcohol_abuse	father_age	father_occupation	father_highest_grade	father_learning_problems	father_speech_problems	father_behavioral_problems	father_medical_problems	father_emotional_problems	father_drug_alcohol_abuse	family_history_learning_problems	family_history_ADD	family_history_behavioral_problems	family_history_neurological_problems
+sub-001	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	2	1	1	1	1	n/a	English	Both Parents	35-39	23	5	2	2	2	2	2	2	40-44	23	5	2	2	2	2	2	2	2	2	1	2
+sub-002	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	1	2	2	2	2	n/a	English	Both Parents	45-49	42	5	2	2	2	2	2	2	55-59	12	5	2	2	2	2	2	2	2	2	2	2
+sub-003	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	1	2	2	2	2	n/a	English	Mother	30-34	41	2	2	2	2	2	2	2	n/a	n/a	n/a	2	2	2	2	2	2	2	2	2	2
+sub-004	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	2	Private school	1	n/a	2	n/a	2	2	2	2	2	1	n/a	English	Both Parents	30-34	Unemployed	4	2	2	2	2	2	2	30-34	25	5	2	2	2	2	2	2	2	2	2	2
+sub-005	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	2	Public school	1	n/a	2	n/a	2	1	2	2	2	2	n/a	English	Both Parents	40-44	34	3	2	2	2	2	2	2	40-44	34	3	2	2	2	1	2	2	2	2	2	2
+sub-006	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	1	Public school	1	n/a	2	n/a	2	1	2	2	2	2	n/a	English	Mother	25-29	43	2	2	2	2	2	2	2	25-29	Unemployed	n/a	2	2	1	2	1	2	2	1	1	2
+sub-007	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	1	2	2	2	2	n/a	English	Both Parents	45-49	22	5	2	2	2	2	2	2	45-49	26	5	2	2	2	1	2	2	2	2	2	2
+sub-008	1	"IEP Speech Therapy.  ""R"" sounds"	1	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	1	2	1	2	2	2	n/a	English	Both Parents	40-44	23	5	1	2	2	1	2	2	45-49	12	4	2	1	2	1	2	2	1	2	2	1
+sub-009	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	1	2	1	2	2	n/a	English	Both Parents	40-44	23	5	1	2	2	1	2	2	45-49	12	4	2	1	2	1	2	2	1	2	2	1
+sub-010	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Private school	1	n/a	2	n/a	2	1	1	1	1	1	n/a	English	Time Split Evenly between Both Parents	40-44	33	3	2	2	2	2	2	2	45-49	33	5	2	2	2	2	2	2	2	2	2	1
+sub-011	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	2	She was put into a split grade classroom; ie. 3rd & 4th grade classroom.	2	n/a	2	1	1	1	1	1	n/a	English	Mother and Fiancee	45-49	83	3	2	2	2	2	2	1	n/a	n/a	n/a	2	2	2	2	2	2	2	2	2	1
+sub-012	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	1	Public school	2	Gifted	2	n/a	2	2	1	1	1	1	n/a	English	Both Parents	50-54	53	4	1	2	2	2	1	2	55-59	71	4	1	2	2	2	1	2	2	2	2	2
+sub-013	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	2	2	2	1	1	n/a	English	Mother	35-39	Unemployed	3	2	2	2	2	2	2	n/a	n/a	n/a	2	2	2	2	2	2	2	2	2	2
+sub-014	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Private school	1	n/a	2	n/a	2	2	1	1	1	2	n/a	English	Mother	40-44	33	3	2	2	2	2	2	2	55-59	13	5	2	2	2	2	2	2	2	2	2	2
+sub-015	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	1	2	1	2	2	2	n/a	English	Mother	40-44	26	3	2	2	2	1	2	2	40-44	n/a	3	2	2	2	2	2	2	2	2	2	2
+sub-016	2	n/a	2	2	n/a	2	n/a	2	2	1	n/a	2	Private school	1	n/a	2	n/a	2	1	2	2	2	2	Internet	English	Mother	35-39	23	5	2	2	2	2	2	2	n/a	n/a	n/a	2	2	2	2	2	2	2	2	2	2
+sub-017	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	2	1	2	2	2	n/a	English	Both Parents	30-34	43	4	2	2	2	2	2	2	35-39	42	5	2	2	2	2	2	2	2	2	2	1
+sub-018	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	2	Public school	1	n/a	2	n/a	2	2	1	1	2	2	Reading	English	Both Parents	45-49	Unemployed	5	2	2	2	2	2	2	45-49	13	5	2	2	2	2	2	2	2	2	2	2
+sub-019	2	n/a	1	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	1	1	2	2	2	n/a	English	Both Parents	n/a	33	4	2	2	2	2	2	2	n/a	72	3	2	2	2	2	2	2	2	2	2	2
+sub-020	n/a	n/a	n/a	n/a	n/a	2	n/a	2	n/a	2	n/a	2	Public school	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	English	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+sub-021	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	1	1	1	1	1	n/a	n/a	God Mother	n/a	Unemployed	1	2	2	2	2	2	2	n/a	n/a	n/a	2	2	2	2	2	2	2	2	2	2
+sub-022	2	n/a	2	1	n/a	2	n/a	2	2	2	n/a	2	Charter school	1	n/a	2	n/a	2	2	1	2	1	2	n/a	English	Mother	30-34	75	3	2	2	2	2	2	2	30-34	83	3	2	2	2	2	2	2	2	2	2	2
+sub-023	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Homeschool	1	n/a	2	n/a	2	2	1	2	2	2	n/a	English	Both Parents	35-39	52	4	2	2	2	2	2	2	40-44	Unemployed	4	2	2	2	2	2	2	2	1	2	2
+sub-024	2	n/a	1	2	n/a	2	n/a	2	2	2	n/a	2	Private school	1	n/a	2	n/a	2	1	1	2	1	2	n/a	English	Both Parents	40-44	Unemployed	4	2	2	2	2	2	2	40-44	54	5	2	2	2	2	2	2	2	2	2	1
+sub-025	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Private school	1	n/a	2	n/a	2	1	2	1	2	1	n/a	English	Both Parents	40-44	Unemployed	4	2	2	2	2	2	2	40-44	54	5	2	2	2	2	2	2	2	2	2	2
+sub-026	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	home school	1	n/a	2	n/a	2	2	2	1	1	2	n/a	English	Both Parents	45-49	Unemployed	4	2	2	2	1	2	2	40-44	21	3	1	1	2	2	1	1	1	1	1	2
+sub-027	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	1	2	2	2	2	n/a	English	Both Parents	50-54	Unemployed	4	2	2	2	1	2	2	55-59	21	5	2	2	2	2	2	2	2	2	2	2
+sub-028	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	1	Public school	1	n/a	2	n/a	2	2	1	1	1	1	n/a	English	Both Parents	35-39	26	5	2	2	2	2	2	2	40-44	54	4	2	2	2	2	2	2	2	2	2	2
+sub-029	2	n/a	2	1	"Reading fluency is okay, he struggles with comprehension/recall"	2	n/a	1	1	2	n/a	2	Public school	1	n/a	2	n/a	2	2	2	1	2	2	n/a	English	Mother (Adoptive Home)	45-49	33	5	2	2	2	2	2	2	n/a	n/a	n/a	2	2	2	2	2	2	2	2	2	2
+sub-030	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	1	1	1	2	2	n/a	English	Both Parents	30-34	33	3	2	2	2	2	2	2	30-34	54	2	2	2	2	2	2	1	2	2	1	2
+sub-031	2	n/a	1	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	1	1	1	1	1	n/a	English	Both Parents	45-49	Self-employed	4	2	2	2	2	2	2	65-69	25	4	2	2	2	2	2	2	2	2	2	2
+sub-032	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Private school	2	n/a	2	n/a	2	2	2	1	1	1	n/a	English	Mother	50-54	26	5	2	2	2	2	2	2	50-54	26	5	2	2	2	2	2	2	2	1	2	2
+sub-033	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Private school	2	Montessori Environment	2	n/a	2	2	2	1	1	1	n/a	English	Mother	50-54	26	5	2	2	2	2	2	2	50-54	26	5	2	2	2	2	2	2	2	1	2	2
+sub-034	1	"Articulation issues with r, s, th, ch."	1	2	n/a	2	n/a	2	2	2	n/a	2	Private school	1	n/a	2	n/a	2	1	1	1	1	1	n/a	English	Both Parents	40-44	26	5	2	1	2	1	2	2	45-49	25	3	2	2	1	2	2	2	2	2	2	2
+sub-035	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	1	Public school	1	n/a	2	n/a	2	1	1	1	1	1	"kinesthetic, doing"	English	Both Parents	45-49	42	5	2	2	2	2	2	2	40-44	26	5	2	2	2	2	2	2	2	2	2	2
+sub-036	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	2	1	1	1	1	n/a	English	Mother	35-39	23	4	2	2	2	2	2	2	50-54	34	5	2	2	2	2	1	2	2	2	2	2
+sub-037	1	spoke late	1	1	Reads at a 2nd Gr. Level	2	n/a	2	2	2	n/a	2	Public school	2	n/a	2	n/a	1	2	1	2	2	2	n/a	English	Both Parents	35-39	Unemployed	3	2	2	2	2	2	2	35-39	83	4	2	2	2	1	2	2	2	2	2	2
+sub-038	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	1	1	1	1	1	loves to do a lot of reading on his own also	English	Both Parents	45-49	33	4	2	2	2	2	2	2	65-69	25	4	2	2	2	2	2	2	2	2	2	2
+sub-039	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	2	Public school	1	n/a	2	n/a	2	1	2	1	1	1	n/a	English	Mother	40-44	Unemployed	3	2	2	2	1	2	2	35-39	82	2	1	2	1	1	2	2	1	1	1	1
+sub-040	2	n/a	2	1	n/a	2	n/a	2	1	2	n/a	2	Private school	1	n/a	2	n/a	2	2	2	2	1	2	n/a	English	Both Parents	30-34	22	3	2	2	2	2	2	2	30-34	Unemployed	3	2	2	2	2	2	1	2	1	2	2
+sub-041	2	n/a	1	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	1	1	1	1	2	n/a	English	Both Parents	30-34	44	3	2	1	2	2	1	2	35-39	42	3	1	1	2	2	2	2	1	2	2	2
+sub-042	2	n/a	2	2	n/a	2	n/a	1	n/a	n/a	n/a	n/a	Public school	1	n/a	2	n/a	2	2	1	1	1	1	n/a	English	Mother	45-49	Unemployed	3	2	2	2	2	2	2	n/a	n/a	n/a	2	2	2	2	2	2	1	2	2	1
+sub-043	2	n/a	1	2	He is disinterested and often stutters whole reading aloud.	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	2	1	1	1	2	n/a	English	Both Parents	30-34	44	3	2	1	2	2	1	2	35-39	42	3	1	1	2	2	2	2	1	2	2	2
+sub-044	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	1	1	2	1	2	n/a	English	Mother and Stepdad	50-54	23	5	2	2	2	2	2	2	45-49	93	4	2	2	2	2	2	2	2	2	2	2
+sub-045	1	n/a	1	1	Has had a hard time pronouncing some letters and sounds	2	Is about average for her age in reading however she really doesn't enjoy it too much and always has to be pushed to sit and read a book.	1	2	2	n/a	2	Private school	1	n/a	2	n/a	2	2	1	1	2	2	n/a	English	Both Parents	45-49	Unemployed	4	2	2	2	2	2	2	40-44	26	5	2	2	2	2	2	2	2	2	2	2
+sub-046	2	n/a	2	2	n/a	2	n/a	n/a	1	2	n/a	2	Charter school	1	n/a	2	n/a	2	2	2	1	1	1	n/a	English	Both Parents	45-49	42	4	2	2	2	2	2	2	45-49	34	3	2	2	2	2	2	2	2	2	2	2
+sub-047	2	n/a	2	1	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	1	1	2	2	2	n/a	English	Both Parents	40-44	24	4	2	2	2	2	2	2	45-49	33	4	2	2	2	2	2	2	1	2	2	2
+sub-048	2	n/a	1	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	2	2	2	2	1	n/a	English	Both Parents	45-49	11	5	2	2	2	2	2	2	50-54	26	5	2	2	2	2	2	2	2	2	2	1
+sub-049	2	n/a	1	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	2	1	1	1	2	she is very quick	English	Both Parents	45-49	26	5	2	2	2	2	2	2	50-54	34	4	1	2	2	1	1	2	1	1	1	1
+sub-050	2	n/a	1	2	n/a	2	n/a	2	1	2	n/a	1	Public school	1	n/a	2	n/a	2	2	2	2	1	2	n/a	English	Both Parents	40-44	Unemployed	3	2	2	2	2	2	2	40-44	25	4	2	2	2	2	2	2	2	2	2	2
+sub-051	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	2	n/a	1	n/a	2	n/a	2	2	2	2	1	2	n/a	English	Both Parents	50-54	53	4	2	1	2	1	2	2	55-59	13	4	2	2	2	2	2	2	2	2	2	2
+sub-052	2	"ch, TH words"	2	1	She has trouble spelling and sounding out words.	1	no disability	2	1	1	learning disability	1	Public school	1	n/a	2	n/a	2	1	1	2	2	2	n/a	English	Mother	40-44	26	4	2	2	2	2	2	2	40-44	83	3	1	2	2	2	2	2	2	2	2	2
+sub-053	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	1	1	1	1	1	n/a	English	Both Parents	35-39	21	4	2	2	2	2	2	2	40-44	83	3	2	2	2	2	2	2	2	2	2	2
+sub-054	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Charter school	1	n/a	2	n/a	2	2	1	1	1	1	n/a	English	Mother	30-34	53	3	2	2	1	1	2	2	40-44	91	2	2	2	2	2	1	1	2	2	2	1
+sub-055	2	n/a	1	1	It was hard for him to sound out the words.	2	n/a	1	1	2	n/a	2	Public school	1	n/a	2	n/a	2	2	1	1	1	1	n/a	Spanish	Both Parents	40-44	12	4	2	2	2	1	2	2	40-44	Unemployed	2	2	2	2	1	1	1	2	2	2	2
+sub-056	2	n/a	2	1	Has always read below grade level and this year she began an intervention at school with the reading specialist.	2	n/a	2	1	2	n/a	2	Public school	1	n/a	2	n/a	2	2	1	1	1	2	n/a	English	Both Parents	35-39	Unemployed	4	1	2	2	1	2	2	40-44	35	5	1	2	2	2	2	2	1	2	2	2
+sub-057	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	2	2	2	2	2	one-on-one with an adult	English	Both Parents	35-39	Unemployed	4	2	1	2	1	2	2	35-39	21	2	2	2	2	2	2	1	2	2	2	2
+sub-058	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	1	Public school	2	He is in an accelerated class	2	n/a	2	2	1	1	2	2	n/a	English	Both Parents	50-54	33	4	2	2	2	2	2	2	45-49	54	2	2	2	2	2	2	1	2	2	2	2
+sub-059	2	n/a	1	2	n/a	2	n/a	2	1	2	n/a	2	homeschool	2	homeschool	2	n/a	2	2	2	1	2	2	n/a	English	Both Parents	40-44	Unemployed	5	2	2	2	2	2	2	50-54	23	5	2	2	2	1	2	2	2	2	2	2
+sub-060	2	n/a	1	2	n/a	2	n/a	2	2	2	n/a	2	homeschool	2	homeschool	2	n/a	2	2	2	1	2	2	n/a	English	Both Parents	40-44	23	5	2	2	2	2	2	2	50-54	23	5	2	2	2	1	2	2	2	2	2	2
+sub-061	2	n/a	2	1	"he doesn't struggle now.  In 2nd grade he thought he was slow. He went to see a tutor, and now he is a good reader.  He focused a lot on the spelling of words, and couldn't accept the many different English spellings rather than just memorizin"	1	"I can't remember a diagnosis, but he worked with a tutor"	1	1	2	n/a	2	Private school	2	gifted school.  IQ test for entry	2	n/a	2	2	1	1	1	1	He prefers learning as hands on as possible	English	Both Parents	50-54	21	n/a	1	2	2	2	2	2	45-49	21	5	2	2	2	2	2	2	2	2	2	2
+sub-062	2	n/a	2	2	Actually he reads at a very high level due to listening to advanced chapter books when he was younger.	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	2	2	1	1	1	n/a	English	Both Parents	50-54	23	4	2	2	2	1	1	2	50-54	25	4	2	2	2	1	2	2	2	2	2	2
+sub-063	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Homeschool	2	Homeschool	2	n/a	n/a	2	1	1	2	2	n/a	English	Both Parents	50-54	Unemployed	4	2	2	2	2	2	2	50-54	33	4	1	2	2	2	2	2	1	2	2	2
+sub-064	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	2	2	1	1	1	n/a	English	Both Parents	40-44	23	5	2	2	2	2	2	2	40-44	23	5	2	2	2	2	2	2	2	2	2	2
+sub-065	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	2	Public school	1	n/a	2	n/a	1	2	1	1	2	1	n/a	English	Both Parents	40-44	Unemployed	4	2	2	2	2	1	2	45-49	54	4	2	1	1	1	2	2	2	2	1	2
+sub-066	2	n/a	2	1	Comprehension of the material	2	n/a	1	1	1	Low scores	1	Public school	1	n/a	2	n/a	1	2	1	1	2	2	"Hands on, being able to touch, see, feel what is being explained"	English	Both Parents	25-29	32	3	2	2	2	2	2	2	30-34	12	3	2	2	2	2	2	2	2	2	2	2
+sub-067	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	1	Public school	1	n/a	2	n/a	2	2	2	2	2	1	n/a	English	Both Parents	45-49	23	3	2	2	2	2	2	2	55-59	n/a	3	2	2	2	2	2	2	2	2	2	2
+sub-068	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	1	Public school	1	n/a	2	n/a	2	2	1	2	2	2	n/a	English	Mother	35-39	32	3	2	2	2	2	2	2	40-44	91	1	2	2	2	2	2	2	2	1	2	2
+sub-069	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	1	Charter school	1	n/a	2	n/a	2	1	2	1	1	1	n/a	English	Both Parents	40-44	51	1	2	2	2	2	2	2	35-39	51	1	2	2	2	2	2	2	2	2	1	2
+sub-070	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Charter school	1	n/a	2	n/a	2	1	1	2	2	2	n/a	English	Mother	35-39	54	3	2	2	2	2	2	2	55-59	22	3	2	2	2	2	2	2	2	2	2	2
+sub-071	2	n/a	2	2	He has had some slight issues during 1st and 2nd grade that were addressed by his being pulled out by the school reading specialist.	2	n/a	1	1	2	n/a	1	Public school	1	n/a	2	n/a	2	2	1	1	2	1	n/a	English	Both Parents	40-44	11	5	2	2	2	2	2	2	50-54	26	5	2	2	1	2	2	2	1	1	1	1
+sub-072	2	n/a	1	1	He has dyslexia	1	Reading delays	1	1	1	He had math delays and received services	1	Private school	n/a	n/a	2	n/a	2	2	1	2	1	2	n/a	English	Both Parents	45-49	Unemployed	4	2	2	2	1	2	2	40-44	21	3	1	1	2	2	1	1	1	1	1	2
+sub-073	2	n/a	2	2	n/a	1	n/a	2	1	1	n/a	1	Private school	1	n/a	2	n/a	2	1	2	1	1	1	n/a	English	Both Parents	40-44	26	5	2	1	2	1	2	2	45-49	25	3	2	2	1	2	2	2	2	2	2	2
+sub-074	2	n/a	2	1	n/a	2	n/a	1	2	2	n/a	2	Public school	1	n/a	n/a	n/a	2	1	1	2	2	2	n/a	English	Grandmother	40-44	Unemployed	3	2	2	2	2	1	2	n/a	n/a	n/a	2	2	2	2	2	2	2	2	2	2
+sub-075	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	1	Charter school	1	n/a	2	n/a	2	2	2	2	1	2	I am not sure but I think she likes to talk to other children all the time and work in groups so she can talk	English	Mother	45-49	Unemployed	4	2	2	2	1	1	2	45-49	33	4	2	2	2	1	1	1	2	2	2	2
+sub-076	2	slight stutter	2	2	a little	2	n/a	2	1	2	n/a	2	Public school	1	n/a	2	n/a	2	1	1	2	2	2	n/a	English	Father	n/a	n/a	n/a	2	2	2	2	2	2	50-54	n/a	1	2	2	2	2	2	2	2	2	2	2
+sub-077	2	n/a	2	1	a little	2	n/a	2	1	2	n/a	2	Public school	1	n/a	1	repeated 1st grade	2	1	1	1	2	2	n/a	English	Father	n/a	n/a	n/a	2	2	2	2	2	2	50-54	n/a	1	2	2	2	2	2	2	2	2	2	2
+sub-078	2	n/a	2	1	she has a hard time rembering what she reads	2	n/a	2	1	2	n/a	2	Charter school	1	n/a	n/a	she gets extra help at school	2	2	2	2	1	1	n/a	English	Both Parents	45-49	Unemployed	3	2	2	2	2	2	2	50-54	93	2	1	1	2	2	2	2	1	2	2	1
+sub-079	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	n/a	1	n/a	2	n/a	2	2	2	1	2	2	n/a	English	Mother	45-49	51	3	2	2	2	2	2	2	55-59	13	4	2	2	2	2	1	2	2	2	2	2
+sub-080	2	n/a	1	1	"phonics, memory, fluency"	1	LD for math but reading not LD but still receives pull out	1	1	1	n/a	1	Public school	1	n/a	2	n/a	1	2	2	1	2	2	n/a	English	Both Parents	50-54	22	4	2	2	2	2	2	2	60-64	33	3	1	2	2	2	2	2	2	1	2	2
+sub-081	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	2	magnet	1	n/a	2	n/a	2	1	2	2	2	1	n/a	English	Mother	25-29	n/a	2	2	2	2	2	2	2	n/a	n/a	n/a	2	2	2	2	2	2	2	2	2	2
+sub-082	1	"articulation disorder diagnosed @ age 2, severe articulation delay"	1	1	"Much, much, much better...but even w/ IEP and 1:1 support, he is still behind his peers"	1	n/a	1	1	1	n/a	1	Public school	1	n/a	1	Repeated	1	1	1	1	2	2	n/a	English	Both Parents	30-34	44	3	2	1	2	2	1	2	35-39	42	3	1	1	2	2	2	2	1	2	2	2
+sub-083	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	1	Public school	1	n/a	1	3rd grade	2	2	2	2	2	1	n/a	English	n/a	25-29	Unemployed	n/a	2	2	2	2	1	2	30-34	83	2	1	2	1	2	2	2	2	2	2	2
+sub-084	1	At times she speaks too fast/mumbles	2	1	"Hard time remembering words that we have gone over and over (sight words that were previously memorized, phonemes, spelling, etc.)"	1	No clear diagnosis - just trouble sounding out words and writing	1	1	1	none- tested with a high IQ in math	1	Public school	1	n/a	2	n/a	1	2	2	1	2	2	n/a	English	Both Parents	35-39	Unemployed	4	2	1	2	2	2	2	35-39	21	2	2	2	2	2	2	1	2	2	2	2
+sub-085	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	1	Public school	1	n/a	2	n/a	2	2	2	1	2	2	n/a	English	Mother	35-39	83	3	1	2	1	2	1	2	30-34	83	2	2	2	1	2	2	2	1	1	2	1
+sub-086	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	2	1	1	1	1	n/a	English	Mother	30-34	21	3	2	2	2	2	2	2	35-39	72	2	1	2	1	2	2	2	1	1	1	2
+sub-087	2	n/a	1	1	cannot easily de code words	1	Reading Disorder (dyslexia)	1	1	2	n/a	2	Charter school	1	n/a	2	n/a	1	1	2	1	2	1	n/a	English	Both Parents	50-54	24	5	2	2	2	2	2	2	55-59	21	4	2	2	2	2	2	2	2	2	2	2
+sub-088	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	1	Public school	1	n/a	2	n/a	2	1	1	1	2	2	n/a	English	Mother	40-44	34	4	2	2	2	1	2	2	n/a	n/a	n/a	2	2	2	2	2	2	1	2	1	1
+sub-089	2	n/a	2	2	n/a	2	n/a	2	n/a	2	n/a	2	Public school	1	n/a	2	n/a	2	2	1	1	1	1	n/a	English	Father and Grandmother	n/a	n/a	n/a	1	2	2	2	2	2	45-49	32	4	2	2	2	1	2	2	1	1	1	1
+sub-090	1	Sometimes his speaking is a little off due to overcrowding of teeth in his mouth	2	2	n/a	2	n/a	2	2	2	n/a	2	Charter school	1	n/a	2	n/a	2	2	1	1	1	1	n/a	English	Mother	30-34	53	3	2	2	1	1	2	2	40-44	91	2	2	2	2	2	1	1	2	2	1	1
+sub-091	2	n/a	1	1	n/a	2	n/a	1	1	1	n/a	1	Public school	1	n/a	2	n/a	1	1	1	2	2	2	n/a	English	Both Parents	45-49	53	3	2	1	2	2	2	2	45-49	91	3	2	2	2	1	2	1	2	2	2	2
+sub-092	2	n/a	2	2	n/a	1	n/a	1	1	1	n/a	1	Private school	1	n/a	2	n/a	1	1	2	1	2	1	n/a	English	Both Parents	45-49	Unemployed	5	1	2	2	2	2	2	40-44	26	5	2	2	2	2	2	2	1	2	2	2
+sub-093	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	2	homeschooled	1	n/a	2	n/a	2	2	2	1	1	2	hands on exploration	English	Both Parents	40-44	23	5	2	2	2	2	2	2	40-44	42	5	2	2	2	1	2	2	2	2	2	2
+sub-094	2	n/a	2	2	n/a	2	n/a	2	1	1	"Learning disability, math"	1	Public school	1	n/a	2	n/a	1	2	2	2	2	1	n/a	English	Both Parents (Adopted)	40-44	26	5	2	2	2	2	2	2	40-44	22	3	2	2	2	1	2	1	1	2	2	2
+sub-095	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	1	Public school	1	n/a	2	n/a	1	2	2	1	1	1	n/a	English	Mother	35-39	26	3	2	2	2	2	2	2	n/a	n/a	N/A	2	2	2	2	1	1	1	2	2	1
+sub-096	2	n/a	2	1	Can read words but has trouble retaining the information and understanding what she's read.	2	n/a	2	1	2	n/a	2	Public school	1	n/a	2	n/a	1	2	2	2	2	2	unsure	English	Mother	30-34	41	2	2	2	2	2	1	2	40-44	n/a	2	2	2	2	2	1	2	2	2	2	2
+sub-097	1	sometimes he mumbles and hard for me to understand	2	1	he has problems with reading comprehension	2	n/a	n/a	1	2	n/a	n/a	Private school	1	n/a	2	n/a	2	1	1	1	1	1	n/a	English	Mother	25-29	24	4	2	2	2	2	2	2	30-34	54	3	1	2	1	2	2	2	2	2	2	2
+sub-098	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	2	Public school	1	n/a	2	n/a	2	1	2	1	1	2	n/a	English	Both Parents	25-29	53	3	2	2	2	2	2	2	25-29	Unemployed	3	2	2	2	2	2	2	2	2	2	2
+sub-099	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	2	Public school	1	n/a	2	n/a	2	1	1	1	1	1	n/a	English	Grandmother	35-39	Unemployed	1	2	2	2	2	2	2	40-44	Unemployed	1	2	2	2	2	2	2	2	2	2	2
+sub-100	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	1	Public school	1	n/a	2	n/a	2	2	2	1	2	2	n/a	Spanish	mother and stepfather	25-29	Unemployed	2	2	2	1	2	1	2	35-39	n/a	1	2	2	1	2	1	1	2	2	1	1
+sub-101	1	prevalent in younger years	1	2	n/a	2	n/a	2	1	2	n/a	1	Public school	1	n/a	2	n/a	2	1	2	2	2	2	n/a	English	Mother	40-44	12	5	2	2	2	2	2	2	45-49	26	4	2	2	2	2	2	2	1	2	2	2
+sub-102	1	n/a	2	2	n/a	2	n/a	2	1	2	n/a	2	Public school	1	n/a	2	n/a	2	2	2	1	2	2	n/a	English	Mother	50-54	41	3	2	2	2	2	2	2	50-54	74	2	2	2	2	2	1	1	2	1	2	2
+sub-103	1	She tends to stutter which takes her time to tell you something.	2	2	n/a	2	n/a	2	1	2	n/a	2	Charter school	1	n/a	2	n/a	2	2	2	2	1	1	Loves to talk!  She processes everything she does through talking.	English	Mother & Great-grandmother & my roommate & her son	40-44	24	3	2	2	2	2	2	2	45-49	82	2	2	2	1	1	1	1	1	1	1	1
+sub-104	2	n/a	2	1	Understanding what she read.	2	n/a	2	1	2	n/a	2	Public school	1	n/a	2	n/a	2	1	1	1	1	1	n/a	English	School days w/mother & weekends w/father.	35-39	n/a	1	1	2	1	1	1	1	35-39	33	2	2	2	2	2	2	2	2	2	2	2
+sub-105	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	2	Public school	1	n/a	2	n/a	2	2	2	2	2	1	n/a	English	Both Parents	30-34	Unemployed	2	2	2	2	2	2	2	35-39	Unemployed	2	2	2	1	2	2	2	2	2	2	2
+sub-106	2	not now but was delayed as a baby/child	1	1	He struggles to sound out words/understand and is behind his peers in his grade.	1	right brained	1	1	1	n/a	2	Public school	2	"all regular classes except Language Arts, but he has been asked to go to regular classes.  "	2	n/a	1	2	2	1	2	2	n/a	English	Both Parents	45-49	33	5	2	2	2	2	2	2	40-44	33	4	2	2	2	2	2	2	2	2	2	2
+sub-107	2	n/a	2	1	He does not read at grade level.  The words jump around.	1	n/a	1	1	1	n/a	1	Charter school	1	n/a	2	n/a	1	1	1	1	1	2	n/a	English	Both Parents	n/a	33	3	2	2	2	2	2	2	n/a	35	3	2	2	2	2	2	2	2	2	2	2
+sub-108	1	when talkin to fast he stutters just a little..	2	1	n/a	2	n/a	2	1	2	n/a	2	Public school	1	n/a	2	n/a	2	2	1	2	2	2	n/a	English	Mother	25-29	Unemployed	2	2	2	2	2	2	2	30-34	72	2	1	1	2	2	2	1	2	2	2	2
+sub-109	2	n/a	2	1	Loses focus after a few chapters 	2	n/a	1	1	2	n/a	1	Public school	1	n/a	2	n/a	2	2	2	1	2	2	n/a	English	Both Parents	40-44	11	4	2	2	2	1	2	2	40-44	54	5	2	2	2	2	2	2	2	2	2	2
+sub-110	1	Stutters when he is n a rush	2	2	n/a	2	n/a	1	1	2	n/a	1	Private school	1	n/a	2	n/a	2	1	1	2	2	1	n/a	English	Mother	40-44	51	3	1	2	2	2	2	2	45-49	22	3	2	1	2	2	2	2	2	2	2	2
+sub-111	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	2	2	2	2	2	n/a	English	Both Parents	25-29	51	2	2	2	2	2	2	2	25-29	51	2	2	2	2	2	2	2	2	2	2	2
+sub-112	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	2	2	2	2	1	n/a	English	Mother	35-39	53	1	2	2	2	1	2	2	50-54	83	3	2	2	2	2	2	2	2	2	2	2
+sub-113	n/a	n/a	n/a	n/a	n/a	2	n/a	1	n/a	2	n/a	1	Public school	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	English	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+sub-114	2	n/a	2	1	IEP - 3-4 grade -  slow reading	1	Reading Disability	1	1	1	Math Disability	1	Public school	1	n/a	2	n/a	1	2	2	1	2	2	n/a	English	Both Parents	40-44	Unemployed	2	2	2	2	2	2	2	n/a	71	2	2	2	2	2	2	2	2	2	2	2
+sub-115	n/a	n/a	n/a	n/a	n/a	1	n/a	n/a	n/a	1	n/a	n/a	Public school	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	English	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+sub-116	2	n/a	2	1	"slow, inaccurate, decoding problems, memory, slow processing"	1	"dyslexia, dycalculia, expressive/receptive disorder"	1	1	1	"dyslexia, dyscalculia, expressive/receptive disorder"	2	Private school	2	specific to children with LD	2	n/a	1	2	2	2	2	2	needs visual and lots of review	English	Both Parents	40-44	32	3	2	2	2	2	2	2	40-44	31	2	1	2	2	2	1	1	1	1	2	2
+sub-117	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	1	Public school	1	n/a	2	n/a	2	1	1	1	1	1	n/a	English	"Mother, but Father passed 3 yrs 2w"	50-54	33	3	2	2	2	2	2	2	65-69	33	4	2	2	2	1	2	2	2	2	2	2
+sub-118	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	2	1	2	1	1	n/a	English	Mother	30-34	Unemployed	2	2	2	2	1	2	2	30-34	Unemployed	2	2	2	2	2	2	2	2	2	2	2
+sub-119	2	n/a	2	n/a	he can verbally tell a story but cant write it down	2	n/a	2	1	2	n/a	2	Public school	1	n/a	2	n/a	2	1	1	1	2	2	n/a	English	take turns	40-44	83	2	2	2	2	2	2	2	45-49	25	3	2	2	2	2	2	2	2	2	2	2
+sub-120	2	n/a	2	2	n/a	2	n/a	1	2	2	n/a	2	Public school	1	n/a	2	n/a	2	2	1	2	1	1	Hands on	English	Both Parents	40-44	26	3	2	2	2	2	2	2	40-44	12	2	1	2	2	2	2	2	1	1	1	1
+sub-121	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	1	Public school	1	n/a	2	n/a	2	1	2	1	2	1	n/a	English	Mother	40-44	32	3	2	2	2	2	2	2	45-49	n/a	1	2	2	2	2	1	1	2	2	2	2
+sub-122	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Private school	1	n/a	2	n/a	2	1	2	2	2	2	n/a	English	Both Parents	40-44	44	3	2	2	2	2	2	2	40-44	83	2	2	2	2	2	2	2	2	2	2	2
+sub-123	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Private school	1	n/a	2	n/a	2	2	1	1	1	1	n/a	English	Both Parents	40-44	23	5	2	2	2	2	2	2	50-54	12	3	2	2	2	2	2	2	2	2	2	2
+sub-124	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	2	Private school	1	n/a	2	n/a	1	1	2	1	2	1	n/a	English	Mother	25-29	41	4	2	2	2	2	2	2	30-34	83	3	2	2	2	2	2	2	2	2	2	2
+sub-125	2	n/a	2	2	n/a	2	n/a	2	1	2	n/a	2	Public school	1	n/a	2	n/a	2	2	1	1	2	2	n/a	English	Mother	35-39	51	2	2	2	2	2	2	2	50-54	44	2	2	2	2	2	2	2	2	2	2	2
+sub-126	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Private Christian school	1	n/a	2	n/a	2	1	1	1	1	1	n/a	English	Mother & sister	35-39	41	4	2	2	2	2	2	2	35-39	n/a	n/a	2	2	2	2	2	2	2	2	2	2
+sub-127	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	n/a	1	1	1	1	1	n/a	n/a	Both Parents	45-49	Self-employed	2	2	2	2	2	2	2	45-49	42	n/a	2	2	2	2	2	2	2	2	2	2
+sub-128	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	2	n/a	2	2	2	1	2	2	n/a	English	Both Parents	35-39	Unemployed	5	2	2	2	2	2	2	40-44	25	5	1	2	2	2	2	2	2	2	2	2
+sub-129	2	has tendency to mumble though	1	2	n/a	2	n/a	2	1	2	n/a	1	Public school	1	n/a	2	n/a	2	2	2	1	2	1	Not positive because I'm not there. But this is what I believe	English	parents are separated- lives mainly with mom but spends time with dad too	35-39	52	3	2	2	2	2	1	2	40-44	54	3	1	2	1	2	2	2	1	1	1	1
+sub-130	2	n/a	1	1	The difficulty she is having is that she does not seem to be able to put together complex words and is thus feeling frustrated and see's her peers advancing.	1	Unknown	1	1	1	Unknown	1	Public school	1	n/a	2	n/a	1	2	1	1	2	2	n/a	English	Both Parents	40-44	22	3	2	2	2	2	1	2	45-49	13	4	2	2	2	2	2	2	2	2	2	2
+sub-131	2	n/a	2	2	n/a	2	n/a	2	2	2	n/a	2	Public school	1	n/a	1	3rd grade	2	1	2	2	2	2	n/a	English	Father	45-49	Unemployed	n/a	2	2	2	2	2	2	60-64	91	3	2	2	2	2	2	2	2	2	2	2
+sub-132	2	n/a	2	1	comprehending	2	n/a	1	2	2	n/a	2	Public school	1	n/a	2	n/a	2	1	2	2	2	2	n/a	English/Spanish	Both Parents	40-44	41	4	2	1	2	2	2	2	40-44	74	3	1	2	2	2	2	2	1	2	2	2
