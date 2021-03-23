@@ -1,0 +1,51 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Wechsler Abbreviated Scale of Intelligence (WASI)",
+    "TermURL": "http://www.cognitiveatlas.org/task/Wechsler_Abbreviated_Scale_of_Intelligence",
+    "Citation": "Wechsler, D. (1999). Wechsler Abbreviated Scale of Intelligence. The Psychological Corporation: Harcourt Brace & Company. New York, NY."
+  },
+  "WASI_Vocab_Raw": {
+    "LongName": "WASI Vocabulary Raw Score",
+    "Description": "Vocabulary subtest raw score"
+  },
+  "WASI_Vocab_T-Score": {
+    "LongName": "WASI Vocabulary T-score",
+    "Description": "Vocabulary subtest T-score"
+  },
+  "WASI_BD_Raw": {
+    "LongName": "WASI Block Design Raw Score",
+    "Description": "Block design subtest raw score"
+  },
+  "WASI_BD_T-Score": {
+    "LongName": "WASI Block Design T-score",
+    "Description": "Block design subtest T-score"
+  },
+  "WASI_Sim_Raw": {
+    "LongName": "WASI Similarities Raw Score",
+    "Description": "Similarities subtest raw score"
+  },
+  "WASI_Sim_T-Score": {
+    "LongName": "WASI Similarities T-score",
+    "Description": "Similarities subtest T-score"
+  },
+  "WASI_MR_Raw": {
+    "LongName": "WASI Matrix Reasoning Raw Score",
+    "Description": "Matrix reasoning subtest raw score"
+  },
+  "WASI_MR_T-Score": {
+    "LongName": "WASI Matrix Reasoning T-score",
+    "Description": "Matrix reasoning subtest T-score"
+  },
+  "WASI_VIQ": {
+    "LongName": "WASI Verbal IQ Score",
+    "Description": "Verbal IQ score"
+  },
+  "WASI_PIQ": {
+    "LongName": "WASI Performance IQ Score",
+    "Description": "Performance IQ score"
+  },
+  "WASI_FSIQ": {
+    "LongName": "WASI Full Scale IQ Score",
+    "Description": "Full Scale IQ score"
+  }
+}
