@@ -1,0 +1,39 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Automated Working Memory Assessment- Short Form (AWMA-S)",
+    "TermURL": "http://www.pearsonclinical.co.uk/Psychology/ChildCognitionNeuropsychologyandLanguage/ChildMemory/AutomatedWorkingMemoryAssessment(AWMA)/AutomatedWorkingMemoryAssessment(AWMA).aspx",
+    "Citation": "Alloway TP. Automated working memory assessment manual. London: Harcourt; 2007."
+  },
+  "AWMA-S_VerbalSTM_Raw": {
+    "LongName": "AWMA-S Verbal Short-Term Memory: Digial Recall Raw Score",
+    "Description": "Verbal short-term memory (digit recall subtest) raw score"
+  },
+  "AWMA-S_VerbalSTM_StS": {
+    "LongName": "AWMA-S Verbal Short-Term Memory: Digital Recall Standard Score",
+    "Description": "Verbal short-term memory (digit recall subtest) standard score"
+  },
+  "AWMA-S_VerbalWM_Raw": {
+    "LongName": "AWMA-S Verbal Working Memory: Listening Recall Raw Score",
+    "Description": "Verbal working memory (listening recall subtest) raw score"
+  },
+  "AWMA-S_VerbalWM_StS": {
+    "LongName": "AWMA-S Verbal Working Memory: Listening Recall Standard Score",
+    "Description": "Verbal working memory (listening recall subtest) standard score"
+  },
+  "AWMA-S_VisuoSpatialSTM_Raw": {
+    "LongName": "AWMA-S Visuo-Spatial Short-Term Memory: Dot Matrix Raw Score",
+    "Description": "Visuo-spatial short-term memory (dot matrix subtest) raw score"
+  },
+  "AWMA-S_VisuoSpatialSTM_StS": {
+    "LongName": "AWMA-S Visuo-Spatial Short-Term Memory: Dot Matrix Standard Score",
+    "Description": "Visuo-spatial short-term memory (dot matrix subtest) standard score"
+  },
+  "AWMA-S_VisuoSpatialWM_Raw": {
+    "LongName": "AWMA-S Visuo-Spatial Working Memory: Spatial Recall Raw Score",
+    "Description": "Visuo-spatial working memory (spatial recall subtest) raw score"
+  },
+  "AWMA-S_VisuoSpatialWM_StS": {
+    "LongName": "AWMA-S Visuo-Spatial Working Memory: Spatial Recall Standard Score",
+    "Description": "Visuo-spatial working memory (spatial recall subtest) standard score"
+  }
+}
