@@ -13,7 +13,7 @@
         "James R. Booth"
     ],
     "Acknowledgements": "",
-    "HowToAcknowledge": "Please cite this dataset as well as the corresponding data descriptor for use of this dataset: \n\nSu\u00e1rez-Pellicioni M, Lytle MN, Younger J & Booth JR (2018). Brain correlates of math development. OpenNeuro. 10.18112/openneuro.ds001486.v1.1.0.\n\nSuarez-Pellicioni M, Lytle MN, Younger JW & Booth JR (2019). Data Descriptor: A longitudinal neuroimaging dataset on arithmetic processing in 8- to 16-year old children. Scientific Data, 6,190040.\n",
+    "HowToAcknowledge": "Please cite this dataset as well as the corresponding data descriptor for use of this dataset: \n\nSu\u00e1rez-Pellicioni M, Lytle MN, Younger J & Booth JR (2018). Brain correlates of math development. OpenNeuro. 10.18112/openneuro.ds001486\n\nSuarez-Pellicioni M, Lytle MN, Younger JW & Booth JR (2019). Data Descriptor: A longitudinal neuroimaging dataset on arithmetic processing in 8- to 16-year old children. Scientific Data, 6,190040.\n",
     "Funding": [
         "This research was supported by HD059177 and HD093547 from the National Institute of Child Health and Human Development to James R. Booth."
     ],
