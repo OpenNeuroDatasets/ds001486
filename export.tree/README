@@ -1,5 +1,0 @@
-## Known Issues ##
-
-* 133 bold scans contain a different number of volumes due to an adjustment in the number occuring after the task had completed
-* Inproper referencing of the correct answer caused an error in the accuracy and response time reporting for some trials. These trials are marked as "err" for accuracy and response_time in the events file
-* task-Num_run-02 and task-Sub_run-01 at both ses-T1 and ses-T2 only allowed participants to respond for 800 ms following presentation of the control, blue box, stimulus. This issue only applied to the control trial_type, and may have resulted in lower accuracy and higher non-response for this condition, in these runs.
