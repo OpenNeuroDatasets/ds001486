@@ -1,0 +1,55 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Woodcock-Johnson III (WJ-III)",
+    "TermURL": "http://cps.nova.edu/~cpphelp/WJIII-ACH.html",
+    "Citation": "Woodcock, R.W., Mather, N., & Schrank, F.A. (2004). Woodcock-Johnson III. Rolling Meadows, IL: Riverside Publishing."
+  },
+  "WJ-III_WordID_Raw": {
+    "LongName": "WJ-III Letter-Word Identification Raw Score",
+    "Description": "Letter-Word Identification subtest raw score"
+  },
+  "WJ-III_WordID_StS": {
+    "LongName": "WJ-III Letter-Word Identification Standard Score",
+    "Description": "Letter-Word Identification subtest standard score"
+  },
+  "WJ-III_WA_Raw": {
+    "LongName": "WJ-III Word Attack Raw Score",
+    "Description": "Word Attack subtest raw score"
+  },
+  "WJ-III_WA_StS": {
+    "LongName": "WJ-III Word Attack Standard Score",
+    "Description": "Word Attack subtest standard score"
+  },
+  "WJ-III_PassComp_Raw": {
+    "LongName": "WJ-III Passage Comprehension Raw Score",
+    "Description": "Passage comprehension subtest raw score"
+  },
+  "WJ-III_PassComp_StS": {
+    "LongName": "WJ-III Passage Comprehension Standard Score",
+    "Description": "Passage comprehension subtest standard score"
+  },
+  "WJ-III_MathFluency_Raw": {
+    "LongName": "WJ-III Math Fluency Raw Score",
+    "Description": "Math Fluency subtest raw score"
+  },
+  "WJ-III_MathFluency_StS": {
+    "LongName": "WJ-III Math Fluency Standard Score",
+    "Description": "Math fluency subtest standard score"
+  },
+  "WJ-III_SpatialRelations_Raw":{
+    "LongName": "WJ-III Spatial Relations Raw Score",
+    "Description": "Spatial relations raw score"
+},
+  "WJ-III_SpatialRelations_Letter": {
+    "LongName": "WJ-III Spatial Relations Raw Letter Score",
+    "Description": "Letter corresponding to items administered for spatial relations test"
+  },
+  "WJ-III_SpatialRelations_StS": {
+    "LongName": "WJ-III Spatial Relations Standard Score",
+    "Description": "Spatial Relations subtest standard score"
+  },
+  "WJ-III_BRS_StS": {
+    "LongName": "WJ-III Basic Reading Skills Standard Score",
+    "Description": "Basic Reading Skills cluster standard score"
+  }
+}
